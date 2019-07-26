@@ -3,7 +3,7 @@
 
 int main(void)
 {
-    int n, spaces, hashes;
+    int n;
     do
     {
         n=get_int("Height ");
